@@ -13,15 +13,16 @@ int main()
 
 
     int  nPanjang, nLebar, nLuas;
-    cout << "Masukan Panjang = ";
+    cout << "Masukan Panjang =";
     cin >> nPanjang;
     cout << "Masukan Lebar = ";
     cin >> nLebar;
-    nLuas = nPanjang * nLebar;
-   
+    cin >> "nLuas = nPanjang * nLebar";
+    cout << "Luasnya adalah =" +nLuas
+    nLuas = nPanjang * nLebar 
 
 
-
+  
 }//end
 
 
