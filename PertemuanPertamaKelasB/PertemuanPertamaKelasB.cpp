@@ -17,11 +17,11 @@ int main()
     cin >> nPanjang;
     cout << "Masukan Lebar = ";
     cin >> nLebar;
-    cin >> "nLuas = nPanjang * nLebar";
-    cout << "Luasnya adalah =" +nLuas
+    nLuas = nPanjang * nLebar;
+   
 
 
-  
+
 }//end
 
 
